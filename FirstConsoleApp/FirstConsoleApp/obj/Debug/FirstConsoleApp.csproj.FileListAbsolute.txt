@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb
